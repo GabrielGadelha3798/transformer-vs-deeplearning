@@ -5,3 +5,4 @@ venv/
 
 # Ignore data files
 Data/
+*/*/model_state
